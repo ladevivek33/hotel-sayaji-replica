@@ -35,3 +35,20 @@ This project is a replica of the Sayaji Hotel website, created as part of my web
 ├── config.php
 ├── README.md
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page]![homesayaji ](https://github.com/user-attachments/assets/a06ba6e8-d5b6-4fa3-93c4-9cdf4653c449)
+
+
+### 🛏️ Rooms Page
+![Rooms Page]![roomsayaji ](https://github.com/user-attachments/assets/19ff6642-b328-467f-99a1-2a0438f467d6)
+
+
+### 🍽️ Restaurant Page
+![Restaurant Page]![foodsayaji](https://github.com/user-attachments/assets/3089ff88-c79d-4293-936c-edad0beb040b)
+
+
+
+### 📞 Contact Page
+![Contact Page]![con](https://github.com/user-attachments/assets/687860ee-7ac6-428c-b2f6-b3eb55f28db7)
